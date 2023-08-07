@@ -1,0 +1,6 @@
+[build-system]
+requires = ["setuptools>=40.8.0", "wheel"]
+
+[project]
+name = "hellow"
+version = "0.0.1"
